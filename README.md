@@ -1,0 +1,6 @@
+# ctFrame-mybatis-plugin
+ctFrame的MyBatis插件，适用于以MyBatis作为持久层实现的情况
+
+开发中……
+
+In developing...
